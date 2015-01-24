@@ -67,3 +67,5 @@ tidy_data <- merged_data %>%
 			group_by (subject, activity) %>%
 			summarise_each ( funs(mean))
 
+# Write the tidy data to file
+write.table (tidy_data, "Tidy_Smartphone_By_SubjectActivity.txt", row.name=FALSE)
