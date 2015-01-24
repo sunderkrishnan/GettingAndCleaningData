@@ -3,7 +3,7 @@ January 2015
 Sunder Krishnan
 
 
-The goal of the project is to collect data and produce a tidy data set that can be used for further analysis. Here are the project instructions:
+The goal of the project is to collect data and produce a tidy data set that can be used for further analysis.
 
 
 ### Data and Reference Material
