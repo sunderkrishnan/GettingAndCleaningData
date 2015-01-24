@@ -15,6 +15,7 @@ The data used for this project can be downloaded from [here](http://archive.ics.
 * CodeBook.md
 * R script - run_analysis.R
 * Tidy Data - Tidy_Smartphone_By_SubjectActivity.txt
+* Tidy Data in CSV format - Tidy_Smartphone_By_SubjectActivity.csv
 
 
 ### Other information
